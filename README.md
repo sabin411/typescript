@@ -1,0 +1,2 @@
+## typescript
+🔥Learning advance typescript. 
